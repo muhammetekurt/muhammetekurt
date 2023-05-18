@@ -2,9 +2,9 @@
 <h3 align="center">I am a Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **Angular and Kotlin**
-- 
+
 - 💬 Ask me about **.Net Core, C#, Java, Spring Boot**
-- 
+ 
 - 📫 How to reach me: **mekurt55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
 <h3 align="center">I am a Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Angular and Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **.Net Core, C#, Java, Spring Boot**
  
